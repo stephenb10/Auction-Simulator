@@ -1,0 +1,220 @@
+Double Auction Simulator
+
+Buy Bids
+------------------------------------------------------------
+Noah Bid 1
+Type B
+$110.31
+x19
+
+William Bid 2
+Type B
+$138.98
+x6
+
+James Bid 3
+Type B
+$120.19
+x33
+
+Logan Bid 4
+Type B
+$147.54
+x13
+
+Benjamin Bid 5
+Type B
+$52.96
+x44
+
+Mason Bid 6
+Type B
+$54.54
+x10
+
+Elijah Bid 7
+Type B
+$115.60
+x8
+
+Oliver Bid 8
+Type B
+$136.80
+x9
+
+Jacob Bid 9
+Type B
+$126.65
+x50
+
+Lucas Bid 10
+Type B
+$108.34
+x5
+
+Sell Bids
+------------------------------------------------------------
+Michael Bid 11
+Type A
+$135.20
+x35
+
+Alexander Bid 12
+Type A
+$115.61
+x33
+
+Ethan Bid 13
+Type A
+$102.44
+x39
+
+Daniel Bid 14
+Type A
+$96.93
+x14
+
+Matthew Bid 15
+Type A
+$61.59
+x31
+
+Aiden Bid 16
+Type A
+$146.81
+x42
+
+Henry Bid 17
+Type A
+$121.81
+x20
+
+Joseph Bid 18
+Type A
+$75.74
+x1
+
+Jackson Bid 19
+Type A
+$131.57
+x22
+
+Samuel Bid 20
+Type A
+$106.18
+x32
+
+Matched Bids
+------------------------------------------------------------
+7 matches
+
+Logan Bid 4                   Aiden Bid 16
+Type B                        Type A
+$147.54                       $146.81
+x13                           x13
+Clearing Price $147.18
+
+Oliver Bid 8                  Michael Bid 11
+Type B                        Type A
+$136.80                       $135.20
+x9                            x9
+Clearing Price $136.00
+
+William Bid 2                 Jackson Bid 19
+Type B                        Type A
+$138.98                       $131.57
+x6                            x6
+Clearing Price $135.28
+
+James Bid 3                   Alexander Bid 12
+Type B                        Type A
+$120.19                       $115.61
+x33                           x33
+Clearing Price $117.90
+
+Lucas Bid 10                  Samuel Bid 20
+Type B                        Type A
+$108.34                       $106.18
+x5                            x5
+Clearing Price $107.26
+
+Noah Bid 1                    Ethan Bid 13
+Type B                        Type A
+$110.31                       $102.44
+x19                           x19
+Clearing Price $106.37
+
+Elijah Bid 7                  Daniel Bid 14
+Type B                        Type A
+$115.60                       $96.93
+x8                            x8
+Clearing Price $106.27
+
+Unmatched Buy Bids
+------------------------------------------------------------
+3 unmatched
+
+Benjamin Bid 5
+Type B
+$52.96
+x44
+
+Mason Bid 6
+Type B
+$54.54
+x10
+
+Jacob Bid 9
+Type B
+$126.65
+x50
+
+Sell Bids
+------------------------------------------------------------
+9 unmatched
+
+Michael Residual Bid 11
+Type A
+$135.20
+x26
+
+Ethan Residual Bid 13
+Type A
+$102.44
+x20
+
+Daniel Residual Bid 14
+Type A
+$96.93
+x6
+
+Matthew Bid 15
+Type A
+$61.59
+x31
+
+Aiden Residual Bid 16
+Type A
+$146.81
+x29
+
+Henry Bid 17
+Type A
+$121.81
+x20
+
+Joseph Bid 18
+Type A
+$75.74
+x1
+
+Jackson Residual Bid 19
+Type A
+$131.57
+x16
+
+Samuel Residual Bid 20
+Type A
+$106.18
+x27
+
